@@ -15,8 +15,34 @@ h2 {
   color: darkblue;
 }
 
+img {
+  width: 100vw;
+  height: auto;
+}
 
+.cap {
+  color: lightslategray;
+}
 
+a:link {
+  color: lightslategray;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: orangered;
+}
+
+a:active {
+  color: darkred;
+}
+
+footer a:hover{
+  text-decoration: none;
+}
 
 /*No touch*/
 h1, h2, nav, .cap, footer {
