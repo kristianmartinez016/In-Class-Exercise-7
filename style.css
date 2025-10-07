@@ -1,16 +1,19 @@
 /*Add your CSS here*/
-*{
+* {
   font-family: sans-serif;
   font-size: 16px;
   margin: 0;
   padding: 0;
-  color: black;
+  color:black;
 }
 
+h1 {
+  font-size: 34:
+}
 
-
-
-
+h2 {
+  color: darkblue;
+}
 
 
 
